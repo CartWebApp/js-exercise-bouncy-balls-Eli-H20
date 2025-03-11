@@ -13,13 +13,12 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 5em;
   letter-spacing: -1px;
   position: absolute;
   margin: 0;
-  top: -4px;
-  right: 5px;
+  left: 26%;
+  top: 40%;
 
-  color: transparent;
   text-shadow: 0 0 4px white;
 }
